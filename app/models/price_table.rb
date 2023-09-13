@@ -1,0 +1,3 @@
+class PriceTable < ApplicationRecord
+  
+end

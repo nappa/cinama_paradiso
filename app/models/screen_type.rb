@@ -1,0 +1,3 @@
+class ScreenType < ApplicationRecord
+  
+end
