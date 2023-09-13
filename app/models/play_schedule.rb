@@ -1,0 +1,3 @@
+class PlaySchedule < ApplicationRecord
+  
+end
